@@ -5,7 +5,7 @@ export const site = {
   description:
     "Ariamena transforms human knowledge, activity, and environments into the reliable training data intelligent systems need to understand how life and work actually happen.",
   email: "partnerships@ariamena.com",
-  linkedin: "https://www.linkedin.com/company/ariamena",
+  linkedin: "https://www.linkedin.com/company/ariamena/",
   nav: [
     { label: "Capabilities", href: "/capabilities" },
     { label: "Industries", href: "/industries" },
